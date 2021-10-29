@@ -7,6 +7,10 @@ Note that you need to have labeled data which means someone has to label thestat
 
 In order to accomplish this, we have designed 3 pipelines. ​We have used Airflow pipelining tools to define our pipelines.
 
+## Architecture:
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%202/Images/Edgararchitecture.jpg)
+
 ## Report
 
 https://codelabs-preview.appspot.com/?file_id=1pgATS4mo2_hVbP7H1Cxn2yBKyroBAfYU1mOCwHol06M#0
@@ -163,9 +167,7 @@ C:.
  
 
 ```
-## Architecture:
 
-![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%202/Images/Edgararchitecture.jpg)
 
 
 ## Setup For Running this Project:
